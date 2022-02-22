@@ -12,7 +12,7 @@ Note that office files in .doc, .xls, .ppt and other formats cannot be loaded.
 
 After entering the sequencing results,  clicking open means start identification.
 
-Click on the result to export, output the result, and  select export location and enter the file name, complete the analysis, and click on the description to obtain the identification result.
+Click on the result to export, output the result, and  select export location and enter the file name, complete the analysis.
 
 The last column in the result file is the identification result, whether it is Ba or not Ba, deterministic.
 
