@@ -1,10 +1,10 @@
-# Identify_B.anthracis
-AGILE V1.1
+# AGILE V1.1
+
 (Anthracis Genome-based Identification with high-fideLity E-probe)
 
 This version is for Windows users, one-click identification of Bacillus anthracis. Users do not need to write code.
 
-Identify_B.anthracis is a tool based python that employs a combination of * in silico * the 9 specific tags of Bacillus anthracis to rapidly identify * B.anthracis *  isolates using nucleotide sequencing data.
+AGILE is a tool based python that employs a combination of * in silico * the 9 specific tags of Bacillus anthracis to rapidly identify * B.anthracis *  isolates using nucleotide sequencing data.
 
 Decompress agile.zip, Open agile_start Shortcut, click Select File to open the sequencing file or click Select Folder to load sequence of whole folder.The common nucleic acid sequences can be loaded
 
